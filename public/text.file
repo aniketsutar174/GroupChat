@@ -1,0 +1,4 @@
+mkdir wassup
+npm install express
+npm install nodemon -D
+npm run dev
